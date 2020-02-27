@@ -1,0 +1,3 @@
+The wget command is a command line utility for downloading files from the internet.
+It supports downloading multiple files, downloading in the background, reuming downloads etc.
+It also limits bandwidth used for downloads and viewing headers

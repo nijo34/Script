@@ -1,0 +1,2 @@
+The curl command transfers data to or from a network server, using one of the supported protocols.
+It is designed to work without user interaction, so it is ideal for use in a shell script
